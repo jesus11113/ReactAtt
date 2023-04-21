@@ -1,0 +1,21 @@
+/*footer */
+footer{
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    background-color: #f6836c;
+    padding: 10px;
+    align-items: center;
+   }
+   
+   footer p{
+     color: white;     
+     font-size: 12px;
+     justify-items: right;
+
+   }
+   
+   footer .logo{
+     color: white;
+     font-weight: bold;
+   }
+   /*footer end*/
